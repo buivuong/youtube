@@ -1,0 +1,101 @@
+{
+  "name": "inferno_lib",
+  "content": {
+    "./node_modules/process/browser.js": {
+      "id": 0,
+      "meta": {}
+    },
+    "./node_modules/inferno-shared/index.js": {
+      "id": 7,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/utils.js": {
+      "id": 12,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/core/options.js": {
+      "id": 16,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/core/VNodes.js": {
+      "id": 18,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/patching.js": {
+      "id": 23,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/rendering.js": {
+      "id": 24,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/constants.js": {
+      "id": 36,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/mounting.js": {
+      "id": 37,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/unmounting.js": {
+      "id": 48,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/wrappers/processElement.js": {
+      "id": 49,
+      "meta": {}
+    },
+    "./node_modules/inferno/index.js": {
+      "id": 68,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/recycling.js": {
+      "id": 79,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/core/normalization.js": {
+      "id": 80,
+      "meta": {}
+    },
+    "./node_modules/inferno-component/index.js": {
+      "id": 113,
+      "meta": {}
+    },
+    "./node_modules/inferno-component/dist/index.js": {
+      "id": 152,
+      "meta": {}
+    },
+    "./node_modules/inferno-shared/dist/index.js": {
+      "id": 153,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/events/delegation.js": {
+      "id": 154,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/events/linkEvent.js": {
+      "id": 155,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/hydration.js": {
+      "id": 156,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/wrappers/InputWrapper.js": {
+      "id": 157,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/wrappers/SelectWrapper.js": {
+      "id": 158,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/DOM/wrappers/TextareaWrapper.js": {
+      "id": 159,
+      "meta": {}
+    },
+    "./node_modules/inferno/dist/index.js": {
+      "id": 160,
+      "meta": {}
+    }
+  }
+}

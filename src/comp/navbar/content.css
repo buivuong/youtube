@@ -1,0 +1,25 @@
+.content{
+	box-shadow: 3px 0 4px rgba(0, 0, 0, 0.1);
+	background-color: white;
+	border: 1px solid;
+	border-color: #ededed;
+	overflow: hidden;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	z-index: 1;
+	padding: 15px 5px 15px 230px;
+	margin: 0;
+	min-height: 600px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	& .grid{
+		width: 98.0%;
+		display: inline;
+		float: left;
+		margin-left: 1%;
+		margin-right: 1%;
+		padding: 9px 0;
+		min-height: 10px;
+	}
+}

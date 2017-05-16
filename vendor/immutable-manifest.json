@@ -1,0 +1,41 @@
+{
+  "name": "immutable_lib",
+  "content": {
+    "./node_modules/baobab/dist/type.js": {
+      "id": 22,
+      "meta": {}
+    },
+    "./node_modules/baobab/dist/helpers.js": {
+      "id": 29,
+      "meta": {}
+    },
+    "./node_modules/baobab/dist/monkey.js": {
+      "id": 35,
+      "meta": {}
+    },
+    "./node_modules/emmett/emmett.js": {
+      "id": 46,
+      "meta": {}
+    },
+    "./node_modules/webpack/buildin/global.js": {
+      "id": 67,
+      "meta": {}
+    },
+    "./node_modules/baobab/dist/cursor.js": {
+      "id": 74,
+      "meta": {}
+    },
+    "./node_modules/baobab/dist/update.js": {
+      "id": 75,
+      "meta": {}
+    },
+    "./node_modules/baobab/dist/baobab.js": {
+      "id": 112,
+      "meta": {}
+    },
+    "./node_modules/baobab/dist/watcher.js": {
+      "id": 134,
+      "meta": {}
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "router_lib",
+  "content": {
+    "./node_modules/router5/constants.js": {
+      "id": 28,
+      "meta": {}
+    },
+    "./node_modules/route-node/dist/commonjs/route-node.js": {
+      "id": 108,
+      "meta": {}
+    },
+    "./node_modules/router5.transition-path/index.js": {
+      "id": 109,
+      "meta": {}
+    },
+    "./node_modules/search-params/index.js": {
+      "id": 110,
+      "meta": {}
+    },
+    "./node_modules/router5/index.js": {
+      "id": 116,
+      "meta": {}
+    },
+    "./node_modules/path-parser/dist/commonjs/path-parser.js": {
+      "id": 162,
+      "meta": {}
+    },
+    "./node_modules/router5/core/clone.js": {
+      "id": 248,
+      "meta": {}
+    },
+    "./node_modules/router5/core/middleware.js": {
+      "id": 249,
+      "meta": {}
+    },
+    "./node_modules/router5/core/navigation.js": {
+      "id": 250,
+      "meta": {}
+    },
+    "./node_modules/router5/core/plugins.js": {
+      "id": 251,
+      "meta": {}
+    },
+    "./node_modules/router5/core/route-lifecycle.js": {
+      "id": 252,
+      "meta": {}
+    },
+    "./node_modules/router5/core/router-lifecycle.js": {
+      "id": 253,
+      "meta": {}
+    },
+    "./node_modules/router5/core/utils.js": {
+      "id": 254,
+      "meta": {}
+    },
+    "./node_modules/router5/create-router.js": {
+      "id": 255,
+      "meta": {}
+    },
+    "./node_modules/router5/plugins/logger/index.js": {
+      "id": 256,
+      "meta": {}
+    },
+    "./node_modules/router5/transition/index.js": {
+      "id": 257,
+      "meta": {}
+    },
+    "./node_modules/router5/transition/resolve.js": {
+      "id": 258,
+      "meta": {}
+    }
+  }
+}

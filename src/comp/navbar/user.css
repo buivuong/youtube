@@ -1,0 +1,25 @@
+.user{
+	height: 20px;
+	position: relative;
+	overflow: hidden;
+	width: auto;
+	padding: 0;
+	& ul{
+		overflow: hidden;
+		margin: 0;
+		padding: 1px 6px;
+		& li{
+			float: right;
+			list-style: none;
+			padding: 0;
+			margin: 0;
+			margin-left: 1px;
+			& a{
+				color: #999999;
+				text-decoration: none;
+				padding: 0 8px 6px;
+				border-top-left-radius: 4px;
+			}
+		}
+	}
+}

@@ -1,0 +1,51 @@
+.confirm{
+	display: block;
+	outline: 0;
+	height: auto;
+	width: 300px;
+	overflow: hidden;
+	border-radius: 4px;
+	border: 1px solid #bbbbbb;
+	color: #3f3f3f;
+	font-size: 1em;
+}
+
+.header{
+	padding: .4em 1em;
+	position: relative;
+	border-top: 1px solid #ffffff;
+	border-bottom: 1px solid #AAAAAA;
+	border-radius: 4px;
+	text-align: left;
+	& .close{
+		position: absolute;
+		right: .3em;
+		top: 50%;
+		width: 19px;
+		margin: -10px 0 0 0;
+		padding: 1px;
+		height: 18px;
+	}
+}
+
+.body{
+	min-height: 52px;
+	position: relative;
+	border: 0;
+	padding: .5em 1em;
+	overflow: auto;
+	text-align: left;
+	zoom: 1;
+}
+
+.footer{
+	text-align: left;
+	border-width: 1px 0 0;
+	margin: .5em 0 0 0;
+	padding: .3em 1em .5em .4em;
+	min-height: 51px;
+	border-top: 1px solid #bbbbbb;
+	& .btn-group{
+		float: right;
+	}
+}

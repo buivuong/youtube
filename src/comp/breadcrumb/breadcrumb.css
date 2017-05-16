@@ -1,0 +1,24 @@
+.wrapper{
+	margin-bottom: 20px;
+	display: block;
+	overflow: hidden;
+	border-radius: 4px;
+}
+.item{
+	float: left;
+	margin: 0;
+	list-style: none;
+	max-width: 280px;
+	&:first-child{
+		margin-left: 0;
+	}
+	& a{
+		text-shadow: 0 1px 0 #ffffff;
+		border: 1px solid;
+		border-color: #eeeeee #dddddd #dddddd #dddddd;
+		padding: 5px 35px 5px 30px;
+		font-size: 14px;
+		display: block;
+		font-weight: 700;
+	}
+}
